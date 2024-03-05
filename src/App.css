@@ -1,0 +1,67 @@
+
+.text-xl234-titopcs {
+    font-size: 1.55rem/* 20px */;
+    line-height: 1.75rem/* 28px */;
+}
+
+.text-xl234-titopcx {
+    font-size: 1.02rem/* 20px */;
+    line-height: 2.52rem/* 28px */;
+}
+
+.text-xl234-titopcxy {
+    font-size: 0.95rem/* 20px */;
+    line-height: 1.00rem/* 28px */;
+}
+
+.text-xl234-titopcsi{
+    font-size: 0.95rem/* 20px */;
+    line-height: 1.00rem/* 28px */;
+}
+.text-xl234-titopcsxi{
+    font-size: 0.73rem/* 20px */;
+    line-height: 1.00rem/* 28px */;
+}
+
+.text-voilet-gradient {
+    font-size: 72px;
+    background: -webkit-linear-gradient(128.87deg, #9780e5 14.05%, #e666cc 89.3%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.video-container {
+    height: 80vh; /* or any desired height */
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.video-text-info {
+    max-width: 50%;
+    padding: 20px;
+    color: white;
+    z-index: 10;
+}
+
+.video-text {
+    max-width: 50%;
+    padding: 20px;
+    color: white;
+    z-index: 10;
+}
+
+.img-home-brand-main{
+    height: 90vh;
+    filter: brightness(80%);
+}
+
+.full-screen-video {
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
